@@ -5,7 +5,7 @@ import pyperclip
 import json
 
 
-# ---------------------------- Search ------------------------------- #
+# ---------------------------- SEARCH ------------------------------- #
 def search():
     website = website_entry.get()
     try:
